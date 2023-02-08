@@ -1,0 +1,313 @@
+*.col{
+    @media screen {
+        
+    }
+    background-color: black;
+}
+.hd1 {
+    @media screen {
+        
+    }
+
+    color: white;
+    font-size: 500%;
+    border: 1px;
+}
+
+.font {
+    @media screen {
+        
+    }
+    
+    font-size: 1100%;
+    color: white;
+}
+.dol {
+    @media screen {
+        
+    }
+    color: white;
+    font-size: 200%;
+}
+.h3 {
+    @media screen {
+        
+    }
+    color: white;
+    font-size: 450%;
+}
+.pg {
+    @media screen {
+        
+    }
+    color: white;
+}
+.contaner {
+    @media screen {
+        
+    }
+background-color: red;
+}
+.bdr {
+    @media screen {
+        
+    }
+    border: 1ch;
+    border-color: red;
+}
+.jd {
+    @media screen {
+        
+    }
+    font-size: 150%;
+    color: red;
+}
+.jf {
+    @media screen {
+        
+    }
+    color: white;
+}
+.dvd {
+    @media screen {
+        
+    }
+    width: 3000px;
+    height: 10px;
+    background-color: white;
+    display: inline-block;
+}
+.jdp {
+    @media screen {
+        
+    }
+    font-size: 200%;
+    color: red;
+}
+.dsd {
+    @media screen {
+        
+    }
+    width: 500px;
+    height: 10px;
+    display: inline-block;
+    background-color: white;
+}
+.jbc {
+    @media screen {
+        
+    }
+    font-size: 250%;
+    color: red;
+}
+.jac {
+    @media screen {
+        
+    }
+    font-size: 200%;
+    color: red;
+}
+.jo {
+    @media screen {
+        
+    }
+    font-size: 100%;
+    color: white;
+}
+.ajp {
+    @media screen {
+        
+    }
+    width: 500%;
+    height: 10%;
+    display: inline-block;
+    background-color: white;
+}
+.jb {
+    @media screen {
+        
+    }
+    background-color: white;
+    padding: 30px
+    border: 2px solide;
+}
+.cool {
+    @media screen {
+        
+    }
+text-align: left;
+}
+.juu {
+    @media screen {
+        
+    }
+    margin: auto;
+    padding: auto;
+    width: auto;
+    height: auto;
+    border: 2px;
+}
+.pjjj {
+    @media screen {
+        
+    }
+    margin: auto;
+    padding: 0%;
+    color: black;
+    border: 30px;
+    border-color: red;
+    background-color: white;
+    font-size: 120%;
+}
+ .bw {
+    @media screen {
+        
+    }
+    margin: auto;
+    padding: auto;
+    float: left;
+ }
+ .you {
+    @media screen {
+        
+    }
+    width: 500px;
+    height: 10px;
+    background-color: red;
+    display: inline-block;
+ }
+  
+ .yo {
+    @media screen {
+        
+    }
+    width: 500px;
+    height: 10px;
+    background-color: red;
+    display: inline-block;
+ }
+
+
+ ul{
+    @media screen {
+        
+    }
+    margin: auto;
+    padding: auto;
+    color: white;
+    text-decoration: none;
+
+ }
+ .mr {
+    @media screen {
+        
+    }
+    color: white;
+    font-size: 180%;
+ }
+ .iii {
+@media screen {
+    
+}
+    color: white;
+    font-size: 120%;
+ }
+
+ .yyy {
+    @media screen {
+        
+    }
+    text-decoration: none;
+ }
+
+  .al{
+    display: flexbox;
+    display: flex;
+    display: inline-flex;
+
+  }
+  .all{
+  display: flex;
+display: inline-flexbox;
+display: inline-flex;
+  }
+  .bb{
+    margin: 5px;
+    width: 800px;
+    height: 150px;
+
+    display: flex;
+    background-color: rgb(252, 242, 242);
+  }
+  .ff{
+    margin: 5px;
+    width: 800px;
+    height: 150px;
+
+    display: flex;
+    background-color: rgb(252, 248, 248);
+  }
+  .gg{
+    
+    font: optional;
+    font: bold;
+    margin: 5px;
+    width: 800px;
+    height: 150px;
+
+    display: flex;
+    background-color: rgb(250, 244, 244);
+  }
+  .aa{
+    margin: 5px;
+    width: 800px;
+    height: 150px;
+
+    display: flex;
+    background-color: rgb(244, 239, 239);
+  }
+  .hg {
+    margin: auto;
+    padding: auto;
+    color: red;
+    font-size: 200%;
+  }
+.ji {
+    color: white;
+}
+
+UL{
+    display: inline-flex;
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    height: 40PX;
+    line-height: 36px;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55PX;
+
+}
+li{
+    float: left;
+    border-right: 1px solid white;
+}
+a{
+    display: block;
+    padding: 0 28px;
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+background-color:red;
+}
+
+.jkl a{
+background-color: red;
+}
+.qqq{
+  @media screen {max-width: ;
+    
+  }
+}
+
